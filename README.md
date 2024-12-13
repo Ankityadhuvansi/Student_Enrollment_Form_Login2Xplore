@@ -176,8 +176,5 @@ function createPUTRequest(connToken, jsonObj, dbName, relName) {
 
 ![PC View2](https://i.ibb.co/XFNXybp/2.png)
 
-### Mobile View
-
-![PC View2](https://i.ibb.co/1qwsbVb/3.png)
 
 
